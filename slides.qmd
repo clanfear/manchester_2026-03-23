@@ -187,30 +187,6 @@ ggplot(df, aes(x = year, y = cohort, group = cohort)) +
 
 ![](img/sa_cropped.png){fig-align="center"}
 
-. . .
-
-* When does **onset** of concealed carry occur?
-
-. . .
-
-* Is there **continuity** in carry over the life course?
-
-   * Are adolescent carriers still carrying today?
-   * Does it differ for legal and illegal carry? 
-
-. . .
-
-* Does **exposure to gun violence** predict later carrying?
-
-   * Does it differ for adolescents and adults?
-   
-
-
-
-## [Two pathways of gun carrying]{.r-fit-text}{background-image="img/clay-banks-nsAn3nSW5T0-unsplash.jpg" background-opacity="0.2"}
-
-&nbsp;
-
 ::::: {.columns}
 
 :::: {.column}
