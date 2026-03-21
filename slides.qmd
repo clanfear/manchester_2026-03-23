@@ -9,7 +9,7 @@ format:
     height: 800
     auto-stretch: true
     title-slide: false
-    pagetitle: "Policing and the life course: Current research and new questions"
+    pagetitle: "Policing, the life course, and social change: Recent research and new questions"
 editor: source
 mouse-wheel: true
 history: false
@@ -17,9 +17,9 @@ history: false
 
 
 
-## [Policing and the life course:</br>]{.r-fit-text} {background-image="img/stephan-cassara-KnAIsBuitGg-unsplash.jpg" background-opacity="0.4"}
+## [Policing, the life course,</br>and social change:]{.r-fit-text} {background-image="img/stephan-cassara-KnAIsBuitGg-unsplash.jpg" background-opacity="0.4"}
 
-### Current research and new questions
+### Recent research and new questions
 
 &nbsp;
 
