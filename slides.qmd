@@ -409,7 +409,7 @@ Guns also:
 
 ## Cynicism, distrust, and guns {background-image="img/benjamin-suter-mlOvsx4xdaA-unsplash.jpg" background-opacity="0.2"}
 
-> legal cynicism promotes concealed gun carrying as a response to **perceived insecurity**.
+> legal cynicism promotes concealed gun carrying as a response to **perceived threats**.
 
 > legal cynicism in the 1990s was primarily a neighborhood phenomenon because the factors producing it were local to neighborhoods; in contrast... legal cynicism of the mid-2010s onward is rooted in **macrosocial changes**...
 
@@ -450,7 +450,7 @@ digraph G{
 
 
 
-## [Dual process model of gun carrying and gun violence]{.r-fit-text}{background-image="img/joel-mott-s-rsM-AktbA-unsplash.jpg" background-opacity="0.2"}
+## [Dual pathway model of gun carrying and gun violence]{.r-fit-text}{background-image="img/benjamin-suter-mlOvsx4xdaA-unsplash.jpg" background-opacity="0.2"}
 
 
 ::::: {.columns}
@@ -547,7 +547,7 @@ But today...
 *How do we build trust and legitimacy and fight cynicism when most information no longer comes from personal experience, close ties, or neighborhoods?*
 
 
-## Age, period, and cohort effects
+## Age, period, and cohort effects {background-image="img/benjamin-suter-mpLex62zVKQ-unsplash.jpg" background-opacity="0.2"}
 
 ![](img/keskinturk.png)
 
@@ -557,7 +557,7 @@ But today...
 * What are the long-term societal implications?
 
 
-## Feedback and questions {background-image="img/benjamin-suter-mpLex62zVKQ-unsplash.jpg" background-opacity="0.4"}
+## Feedback and questions {background-image="img/joel-mott-s-rsM-AktbA-unsplash.jpg" background-opacity="0.3"}
 
 Contact:
 
